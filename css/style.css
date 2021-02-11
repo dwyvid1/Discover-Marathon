@@ -3,6 +3,8 @@
     --dark-blue: #363f5f;
     --dark-green: #49AA26;
     --light-green: #3dd705;
+    --bluebell: #341f97;
+    --nasu-purple: #5f27cd;
     --red: #e92929;
 }
 
@@ -66,13 +68,13 @@ button {
     border-radius: 00.25rem;
     
     color: white;
-    background: var(--dark-green);
+    background: var(--bluebell);
 
     cursor: pointer;
 }
 
 button:hover {
-    background: var(--light-green);
+    background: var(--nasu-purple);
 }
 
 .button.new {
@@ -100,7 +102,7 @@ button:hover {
 
 /* Header ====================*/
 header {
-    background: #2D4A22;
+    background: var(--bluebell);
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -148,7 +150,7 @@ header {
 }
 
 .card.total {
-    background-color: var(--dark-green);
+    background-color: var(--nasu-purple);
     color: white;
 }
 
