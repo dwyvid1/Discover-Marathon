@@ -4,6 +4,8 @@
 
 The Rocketseat Discover marathon is a Programming marathon with a focus on Web Development, where the main objective is to show how simple it is to develop web projects. In this edition we will develop a project called dev.finance $, a responsive financial control website.
 
+![preview-web](https://github.com/dwyvid1/Discover-Marathon/blob/master/img/devfinances-web.png)
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
